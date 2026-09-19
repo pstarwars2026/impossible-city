@@ -24,13 +24,13 @@ Impossible City is being prepared for the Apple App Store. **It is not available
 | Sourced stories and close-up views | Brandenburg Gate and Space Needle |
 | Local progress and city saves | Assembly, stories and views for each added landmark |
 
-The intended launch offer is a free download with a **US $6.99 one-time Pro purchase**, with no subscription. Apple will display regional pricing when the purchase is available. Edition One includes the six additional landmarks above; future editions are separate.
+The intended launch offer is a free download with a **US $1.99 one-time Pro purchase**, with no subscription. Apple will display regional pricing when the purchase is available. Edition One includes the six additional landmarks above. Later add-on packs are planned in batches of six at US $1.99 per pack, sold separately after completion and testing. There is no promised release schedule.
 
 There is no timer. Build at your own pace, move a finished miniature into your city, and discover something about the place that inspired it. Models are artistic interpretations; puzzle sections do not represent historical construction sequences.
 
 ## A look inside
 
-Actual iPad simulator captures of the development candidate:
+A preview of the app in development:
 
 <table><tr><td><img src="assets/01-your-world.png" width="260" alt="The miniature city"></td><td><img src="assets/02-build-a-wonder.png" width="260" alt="Assembling the Taj Mahal"></td><td><img src="assets/03-discover-its-story.png" width="260" alt="Exploring the Eiffel Tower and its stories"></td></tr><tr><td>Your own city</td><td>Build a wonder</td><td>Discover its story</td></tr></table>
 

@@ -14,7 +14,7 @@ Assembly progress stays on your device. Use Save in My City to keep your city an
 
 ## Pro purchases
 
-The intended US launch price is $6.99 once, with Apple's regional pricing shown in the app. Pro is not a subscription. Edition One contains the six listed additional landmarks; future editions are separate. Use Restore Purchases with the Apple Account that purchased it. Shared Apple-platform ownership still needs final store configuration and validation. Web and Android purchase sharing are not available. There is no external checkout or license-key seller.
+The intended US launch price is $1.99 once, with Apple's regional pricing shown in the app. Pro is not a subscription. Edition One contains the six listed additional landmarks. Future packs are planned as six puzzles for US $1.99 per pack and are separate purchases; they are not available yet. Use Restore Purchases with the Apple Account that purchased it. Shared Apple-platform ownership still needs final store configuration and validation. Web and Android purchase sharing are not available. There is no external checkout or license-key seller.
 
 ## Devices and connectivity
 
