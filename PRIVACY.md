@@ -1,6 +1,6 @@
 # Impossible City privacy
 
-Updated September 19, 2026. This policy describes the Apple development candidate, provided by Parashar Shah.
+Updated September 20, 2026. This policy describes the submitted Apple app, provided by Parashar Shah.
 
 ## Your city stays on your device
 

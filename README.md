@@ -7,12 +7,12 @@
 
 A quiet place to assemble architectural miniatures, discover their stories, and create a city of your own.
 
-**iPad · iPhone · Mac · In development**
+**iPad · iPhone · Mac · Submitted for App Review**
 
 [Free and Pro](#start-with-three-wonders) · [Privacy](PRIVACY.md) · [Support](SUPPORT.md)
 </div>
 
-Impossible City is being prepared for the Apple App Store. **It is not available to download or purchase yet.** This repository is its public product and support page. The app source is private; no app binaries are distributed here.
+Impossible City: Build Wonders version 1.0 (build 11) for iPhone/iPad and Mac, with Pro — Edition One, was submitted on September 20, 2026 and showed Waiting for Review. **It is not available to download or purchase yet.** This repository is its public product and support page. The app source is private; no app binaries are distributed here.
 
 ## Start with three wonders
 
@@ -24,25 +24,25 @@ Impossible City is being prepared for the Apple App Store. **It is not available
 | Sourced stories and close-up views | Brandenburg Gate and Space Needle |
 | Local progress and city saves | Assembly, stories and views for each added landmark |
 
-The intended launch offer is a free download with a **US $1.99 one-time Pro purchase**, with no subscription. Apple will display regional pricing when the purchase is available. Edition One includes the six additional landmarks above. Later add-on packs are planned in batches of six at US $1.99 per pack, sold separately after completion and testing. There is no promised release schedule.
+The submitted launch offer is a free download with a **US $1.99 one-time Pro purchase**, with no subscription. Apple will display regional pricing when the purchase is available. Edition One includes the six additional landmarks above. Later add-on packs are planned in batches of six at US $1.99 per pack, sold separately after completion and testing. There is no promised release schedule.
 
 There is no timer. Build at your own pace, move a finished miniature into your city, and discover something about the place that inspired it. Models are artistic interpretations; puzzle sections do not represent historical construction sequences.
 
 ## A look inside
 
-A preview of the app in development:
+Screenshots prepared for the submitted release, rendered from the app’s actual game UI:
 
-<table><tr><td><img src="assets/01-your-world.png" width="260" alt="The miniature city"></td><td><img src="assets/02-build-a-wonder.png" width="260" alt="Assembling the Taj Mahal"></td><td><img src="assets/03-discover-its-story.png" width="260" alt="Exploring the Eiffel Tower and its stories"></td></tr><tr><td>Your own city</td><td>Build a wonder</td><td>Discover its story</td></tr></table>
+<table><tr><td><img src="assets/01-your-world.jpg" width="260" alt="The miniature city"></td><td><img src="assets/02-build-a-wonder.jpg" width="260" alt="Assembling the Taj Mahal"></td><td><img src="assets/03-discover-its-story.jpg" width="260" alt="Exploring the Eiffel Tower and its stories"></td></tr><tr><td>Your own city</td><td>Build a wonder</td><td>Discover its story</td></tr></table>
 
 ## Made for your device
 
 The app targets iOS/iPadOS 26 and macOS 26 or later, with a native Mac app. Game assets and stories are included. There is no game account, advertising or analytics SDK. Purchases, restoration and external historical sources require internet access.
 
-City saves stay on each device and do not sync with the website or other devices. Shared Pro ownership across the Apple versions is planned through the same Apple Account; final store configuration and validation are pending. Web and Android purchase sharing are not offered.
+City saves stay on each device and do not sync with the website or other devices. The iPhone/iPad and Mac versions use one shared Pro purchase, restored with the same Apple Account. Store availability is pending approval and release; live cross-device restoration has not yet been verified. Web and Android purchase sharing are not offered.
 
 ## Release status
 
-Free and Pro are implemented in a development candidate. Final testing, store configuration and App Review are pending. The App Store link will appear after approval and release. There are no public downloads yet.
+Version 1.0 (build 11) and Pro — Edition One showed Waiting for Review at the September 20, 2026 submission check. Submission does not mean approval or availability. The App Store link will appear after approval and release. There are no public downloads yet.
 
 ## Support and feedback
 

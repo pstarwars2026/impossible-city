@@ -1,6 +1,6 @@
 # Impossible City support
 
-**In development. No public download or purchase is available yet.**
+**Version 1.0 (build 11) and Pro — Edition One were submitted September 20, 2026 and showed Waiting for Review. No public download or purchase is available yet.**
 
 For help, [open an issue](https://github.com/pstarwars2026/impossible-city/issues/new/choose). Include your device model, operating-system version, app version and steps to reproduce the problem. Issues are public: never post passwords, payment receipts or personal information.
 
@@ -14,7 +14,7 @@ Assembly progress stays on your device. Use Save in My City to keep your city an
 
 ## Pro purchases
 
-The intended US launch price is $1.99 once, with Apple's regional pricing shown in the app. Pro is not a subscription. Edition One contains the six listed additional landmarks. Future packs are planned as six puzzles for US $1.99 per pack and are separate purchases; they are not available yet. Use Restore Purchases with the Apple Account that purchased it. Shared Apple-platform ownership still needs final store configuration and validation. Web and Android purchase sharing are not available. There is no external checkout or license-key seller.
+The submitted US launch price is $1.99 once, with Apple's regional pricing shown in the app. Pro is not a subscription. Edition One contains the six listed additional landmarks. Future packs are planned as six puzzles for US $1.99 per pack and are separate purchases; they are not available yet. Use Restore Purchases with the Apple Account that purchased it. The iPhone/iPad and Mac versions use the same Pro product. Availability awaits approval and release; live cross-device restoration has not yet been verified. Web and Android purchase sharing are not available. There is no external checkout or license-key seller.
 
 ## Devices and connectivity
 
