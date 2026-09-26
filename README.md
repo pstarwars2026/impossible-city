@@ -7,12 +7,14 @@
 
 A quiet place to assemble architectural miniatures, discover their stories, and create a city of your own.
 
-**iPad · iPhone · Mac · Submitted for App Review**
+**iPad · iPhone · Mac · Approved for distribution**
+
+[Download on the App Store](https://apps.apple.com/us/app/impossible-city-build-wonders/id6814018824)
 
 [Free and Pro](#start-with-three-wonders) · [Privacy](PRIVACY.md) · [Support](SUPPORT.md)
 </div>
 
-Impossible City: Build Wonders version 1.0 (build 11) for iPhone/iPad and Mac, with Pro — Edition One, was submitted on September 20, 2026 and showed Waiting for Review. **It is not available to download or purchase yet.** This repository is its public product and support page. The app source is private; no app binaries are distributed here.
+Impossible City: Build Wonders is available for iPhone and iPad. The native Mac version has also been approved and released; its storefront availability is still propagating as of September 26, 2026. This repository is its public product and support page. The app source is private; no app binaries are distributed here.
 
 ## Start with three wonders
 
@@ -24,7 +26,7 @@ Impossible City: Build Wonders version 1.0 (build 11) for iPhone/iPad and Mac, w
 | Sourced stories and close-up views | Brandenburg Gate and Space Needle |
 | Local progress and city saves | Assembly, stories and views for each added landmark |
 
-The submitted launch offer is a free download with a **US $1.99 one-time Pro purchase**, with no subscription. Apple will display regional pricing when the purchase is available. Edition One includes the six additional landmarks above. Later add-on packs are planned in batches of six at US $1.99 per pack, sold separately after completion and testing. There is no promised release schedule.
+The app is a free download with a **US $1.99 one-time Pro purchase**, with no subscription. Apple displays pricing for your region in the app. Edition One includes the six additional landmarks above. Later add-on packs are planned in batches of six at US $1.99 per pack, sold separately after completion and testing. There is no promised release schedule.
 
 There is no timer. Build at your own pace, move a finished miniature into your city, and discover something about the place that inspired it. Models are artistic interpretations; puzzle sections do not represent historical construction sequences.
 
@@ -38,11 +40,11 @@ Screenshots prepared for the submitted release, rendered from the app’s actual
 
 The app targets iOS/iPadOS 26 and macOS 26 or later, with a native Mac app. Game assets and stories are included. There is no game account, advertising or analytics SDK. Purchases, restoration and external historical sources require internet access.
 
-City saves stay on each device and do not sync with the website or other devices. The iPhone/iPad and Mac versions use one shared Pro purchase, restored with the same Apple Account. Store availability is pending approval and release; live cross-device restoration has not yet been verified. Web and Android purchase sharing are not offered.
+City saves stay on each device and do not sync with the website or other devices. The iPhone/iPad and Mac versions use one shared Pro purchase, restored with the same Apple Account. Edition One is approved; purchase and restoration using the released apps have not yet been independently verified across devices. Web and Android purchase sharing are not offered.
 
 ## Release status
 
-Version 1.0 (build 11) and Pro — Edition One showed Waiting for Review at the September 20, 2026 submission check. Submission does not mean approval or availability. The App Store link will appear after approval and release. There are no public downloads yet.
+Checked September 26, 2026: iOS and macOS version 1.0 (build 11) both show Ready for Distribution, and Pro — Edition One is approved. The public iPhone/iPad listing is live and shows the US $1.99 upgrade. Mac was released on September 26; the native Mac listing may take up to 24 hours to appear. [Open the App Store listing](https://apps.apple.com/us/app/impossible-city-build-wonders/id6814018824).
 
 ## Support and feedback
 
